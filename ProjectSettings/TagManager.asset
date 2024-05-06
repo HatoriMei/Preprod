@@ -4,7 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< Updated upstream
   - Key
+=======
+  - Key1
+  - Pushable
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
